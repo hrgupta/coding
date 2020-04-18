@@ -11,7 +11,8 @@ Output: 2
 Explanation: [0, 1] (or [1, 0]) is a longest contiguous subarray with equal number of 0 and 1.
 Note: The length of the given binary array will not exceed 50,000.
 '''
-'''Solution
+'''
+Solution:
 555 / 555 test cases passed.
 Status: Accepted
 Runtime: 864 ms
