@@ -17,7 +17,6 @@ Output: [4,3,2,2]
 Explanation: The array represents the integer 4321.
 '''
 '''Solution
-'''Solution
 109 / 109 test cases passed.
 Status: Accepted
 Runtime: 36 ms
